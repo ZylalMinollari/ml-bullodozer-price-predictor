@@ -1,0 +1,4 @@
+.ipynb_checkpoints/
+env/
+data/bluebook-for-bulldozers/train_temp.csv
+data/bluebook-for-bulldozers/TrainAndValid.csv
